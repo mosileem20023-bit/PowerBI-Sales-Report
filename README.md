@@ -3,7 +3,7 @@ Interactive Power BI Dashboard for Sales Performance Analysis
 # 📊 Power BI Sales Performance Dashboard
 
 ### 📁 Project File
-- [Download Power BI Dashboard](./Sales_Performance_Dashboard.pbix)
+- [Download Power BI Dashboard](./Power_BI_Sales_Analysis.pbix)
 
 ### 🧠 Description
 This Power BI project focuses on:
